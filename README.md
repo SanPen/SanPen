@@ -10,7 +10,7 @@ My main work is:
 - [**Modelado práctico de red**](https://modeladopractico.readthedocs.io/es/latest/index.html) a web-book about hands on modelling of power systems, for now only in Spanish.
 - [**Practical Grid Modelling**](https://github.com/SanPen/PracticalGridModeling) a bit dated, yet interesting hands on modelling book, in english.
 
-- [**ESIOS**](https://github.com/SanPen/ESIOS) A surprisingly popular API to access the Spanish electricity market data.
+- [**ESIOS**](https://github.com/SanPen/ESIOS) A (surprisingly popular) API to access the Spanish electricity market data.
 
 - 🔭 I’m always working on GridCal or other electrical simulation software!
 - 🤔 I’m looking for help with power systems modelling for GridCal, so if you feel like you can contribute contact me!
