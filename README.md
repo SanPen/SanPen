@@ -6,7 +6,7 @@ I'm a power systems engineer working on better software for better engineering a
 
 My main work is:
 
-- ⚡ [**GridCal**](https://github.com/SanPen/GridCal) a state of the art power systems planning software.
+- ⚡ [**VeraGrid**](https://github.com/SanPen/VeraGrid) a state of the art power systems planning software.
 - [**Modelado práctico de red**](https://modeladopractico.readthedocs.io/es/latest/index.html) a web-book about hands on modelling of power systems, for now only in Spanish.
 
 - [**ESIOS**](https://github.com/SanPen/ESIOS) A (surprisingly popular) API to access the Spanish electricity market data.
